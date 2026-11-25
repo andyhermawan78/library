@@ -1,0 +1,6 @@
+{
+  "name": "The Chronos Library Heist",
+  "description": "An interactive Grade 10 English text-adventure game guided by Eldred, the ghostly librarian, testing skimming and scanning across 10 historical timelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
